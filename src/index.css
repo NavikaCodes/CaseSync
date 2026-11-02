@@ -1,0 +1,4 @@
+@import "tailwindcss";
+@theme { --font-sans: "Segoe UI", system-ui, -apple-system, Roboto, sans-serif; }
+body { background:#f4f6fa; color:#0f1e3d; }
+button:focus-visible,input:focus-visible,select:focus-visible,textarea:focus-visible{outline:2px solid #2563eb;outline-offset:2px}
